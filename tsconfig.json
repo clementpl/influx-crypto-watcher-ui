@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "typeRoots": ["./node_modules/@types"],
+    "module": "commonjs",
+		"jsx": "react",
+    "moduleResolution": "node",
+    "target": "es2016",
+    "baseUrl": ".",
+    "outDir": "dist",
+    "paths": {
+      "*": ["node_modules/*"]
+    },
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "sourceMap": true,
+    "resolveJsonModule": true
+  },
+  "include": ["src/**/*"]
+}
