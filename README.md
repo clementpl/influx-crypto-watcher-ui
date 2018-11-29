@@ -1,6 +1,7 @@
 # Influx crypto watcher UI
 
-UI for [influx-crypto-watcher](https://github.com/clementpl/influx-crypto-watcher) project
+UI for [influx-crypto-watcher](https://github.com/clementpl/influx-crypto-watcher) project.
+This UI let you manage your watchers
 
 ## Getting started
 
